@@ -1,212 +1,276 @@
 {
-	"Wallpapers": [
-	{
-		"name": "Magma 01",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(01).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(01).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 02",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(02).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(02).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 03",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(03).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(03).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 04",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(04).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(04).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 05",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(05).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(05).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 06",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(06).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(06).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 07",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(07).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(07).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 08",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(08).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(08).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 09",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(09).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(09).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 10",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(10).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(10).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 11",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(11).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(11).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 12",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(12).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(12).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 13",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(13).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(13).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 14",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(14).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(14).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 15",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(15).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(15).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 16",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(16).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(16).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 17",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(17).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(17).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 18",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(18).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(18).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 19",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(19).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(19).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 20",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(20).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(20).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 21",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(21).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(21).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 22",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(22).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(22).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 23",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(23).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(23).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 24",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(24).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(24).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 25",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(25).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(25).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	},
-	{
-		"name": "Magma 26",
-		"author": "Dosarts",
-		"url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(26).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(26).jpg",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
-]
+  "Wallpapers": [
+    {
+      "name": "Magma 01",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(01).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(01).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 02",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(02).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(02).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 03",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(03).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(03).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 04",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(04).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(04).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 05",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(05).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(05).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 06",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(06).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(06).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 07",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(07).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(07).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 08",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(08).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(08).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 09",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(09).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(09).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 10",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(10).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(10).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 11",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(11).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(11).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 12",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(12).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(12).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 13",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(13).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(13).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 14",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(14).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(14).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 15",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(15).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(15).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 16",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(16).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(16).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 17",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(17).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(17).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 18",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(18).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(18).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 19",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(19).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(19).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 20",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(20).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(20).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 21",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(21).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(21).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 22",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(22).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(22).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 23",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(23).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(23).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 24",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(24).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(24).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 25",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(25).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(25).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 26",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(26).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(26).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 27",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(27).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(27).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 28",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(28).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(28).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 29",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(29).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(29).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 30",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(30).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(30).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 31",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(31).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(31).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    }
+    {
+      "name": "Magma 32",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(32).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(32).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 33",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(33).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(33).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    },
+    {
+      "name": "Magma 34",
+      "author": "Dosarts",
+      "url": "https://raw.githubusercontent.com/DougSchuindt/magma/master/magma%20(34).jpg",
+      "thumbnail": "https://raw.githubusercontent.com/DougSchuindt/magma/master/thumb%20(34).jpg",
+      "downloadable": false,
+      "copyright": "CreativeCommons Attribution-ShareALike"
+    }
+  ]
 }
